@@ -21,6 +21,9 @@ youtubeTRIMtool is a GUI for youtube-dl and ffmpeg to make the following functio
 <h3 style="text-align: center;"><span style="color: #3366ff;"><strong>Download last version for Windows (free, portable and open source):</strong></span></h3>
 <h3><span style="text-decoration: underline;"><strong>https://github.com/testertv/youtubetrimtool.github.io/releases/download/2020.12.07/youtubeTRIMtool_v.2020.12.07.exe</strong></span></h3>
 
+<h3 style="text-align: center;"><span style="color: #3366ff;"><strong>Instalation:</strong></span></h3>
+The program is portable, but you need to create 
+
 Source files coming soon!
 
 P.S.: I am not a programmer, so do not judge strictly my code! The main thing it performs its function :)
