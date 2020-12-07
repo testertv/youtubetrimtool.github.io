@@ -2,9 +2,13 @@
 
 <h1 style="text-align: center;"><span style="color: #3366ff;"><strong>youtubeTRIMtool</strong></span></h1>
 youtubeTRIMtool is a GUI for youtube-dl and ffmpeg to make the following functions:
+
 - download and trim videos from youtube (conversion function is not available yet)
+
 - download, trim and convert audios from youtube
+
 - download playlists ffrom youtube
+
 - download live streams from youtube
 
 <a href="https://github.com/testertv/tpdne.github.io"><img src="https://raw.githubusercontent.com/testertv/youtubetrimtool.github.io/main/images/top.jpg?raw=true" alt="test-pattern-152459-1280" border="0"></a>
