@@ -19,6 +19,6 @@ youtubeTRIMtool is a GUI for youtube-dl and ffmpeg to make the following functio
 <a href="https://github.com/testertv/tpdne.github.io"><img src="https://raw.githubusercontent.com/testertv/youtubetrimtool.github.io/main/images/1%20(1).jpg?raw=true" alt="test-pattern-152459-1280" border="0"></a>
 
 <h3 style="text-align: center;"><span style="color: #3366ff;"><strong>Download last version for Windows (free, portable and open source):</strong></span></h3>
-<h3><span style="text-decoration: underline;"><strong>come soon! :)</strong></span></h3>
+<h3><span style="text-decoration: underline;"><strong>coming soon! :)</strong></span></h3>
 
 P.S.: I am not a programmer, so do not judge strictly my code! The main thing it performs its function :)
