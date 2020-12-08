@@ -22,11 +22,13 @@ youtubeTRIMtool is a GUI for youtube-dl and ffmpeg to make the following functio
 <h3><span style="text-decoration: underline;"><strong>https://github.com/testertv/youtubetrimtool.github.io/releases/download/2020.12.07/youtubeTRIMtool_v.2020.12.07.exe</strong></span></h3>
 
 <h3 style="text-align: center;"><span style="color: #3366ff;"><strong>Installation:</strong></span></h3>
-The program is portable, but you need to create a folder "youtube-dl-ffmpeg" next to the program and put two files in it "youtube-dl.exe" and "ffmpeg.exe". Github has problems with publishing "youtube-dl", so you will have to download and put "youtube-dl and "ffmpeg" in the folder yourself. <h4 style="text-align: center;"><span style="color: #3366ff;"><strong>Attention: the path the program is found must not contain spaces or non-English letters.</strong></span></h4>
+The program is portable, but you need to create a folder "youtube-dl-ffmpeg" next to the program and put two files in it "youtube-dl.exe" and "ffmpeg.exe". Github has problems with publishing "youtube-dl", so you will have to download and put "youtube-dl and "ffmpeg" in the folder yourself. 
 
 https://youtube-dl.org/downloads/latest/youtube-dl.exe
 
 https://github.com/BtbN/FFmpeg-Builds/releases
+
+<h4 style="text-align: center;"><span style="color: #3366ff;"><strong>Attention: the path the program is found must not contain spaces or non-English letters.</strong></span></h4>
 
 <a href="https://github.com/testertv/tpdne.github.io"><img src="https://raw.githubusercontent.com/testertv/youtubetrimtool.github.io/main/images/install.jpg?raw=true" alt="test-pattern-152459-1280" border="0"></a>
 
