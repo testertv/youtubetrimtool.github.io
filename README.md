@@ -32,6 +32,4 @@ https://github.com/BtbN/FFmpeg-Builds/releases
 
 <a href="https://github.com/testertv/tpdne.github.io"><img src="https://raw.githubusercontent.com/testertv/youtubetrimtool.github.io/main/images/install.jpg?raw=true" alt="test-pattern-152459-1280" border="0"></a>
 
-Source files coming soon!
-
 P.S.: I am not a programmer, so do not judge strictly my code! The main thing it performs its function :)
