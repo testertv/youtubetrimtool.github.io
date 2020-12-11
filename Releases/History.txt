@@ -1,5 +1,7 @@
 youtubeTRIMtool_v.2020.12.11
 - Added the possibility to save some functions
+ + saving the last download path
+ + saving window size
 
 youtubeTRIMtool_v.2020.12.07
 - First version
