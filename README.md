@@ -1,4 +1,5 @@
-# youtubetrimtool.github.io
+# youtubetrimtool is no longer supported because of stop youtube-dl project!!! 
+
 <a href="https://github.com/testertv/tpdne.github.io"><img src="https://raw.githubusercontent.com/testertv/youtubetrimtool.github.io/main/images/top.jpg?raw=true" alt="test-pattern-152459-1280" border="0"></a>
 <h1 style="text-align: center;"><span style="color: #3366ff;"><strong>youtubeTRIMtool</strong></span></h1>
 youtubeTRIMtool is a GUI for youtube-dl and ffmpeg to make the following functions:
